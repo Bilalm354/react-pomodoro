@@ -1,3 +1,7 @@
+#React Pomodoro Timer 
+Deployed on https://bilalm354-react-pomodoro.netlify.com/
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
